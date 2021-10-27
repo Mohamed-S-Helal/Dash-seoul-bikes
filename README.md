@@ -4,4 +4,4 @@
 ## Walaa Helmy
 # 
 
-[dashboard deployed on pythonanywhere](https://msalah987.pythonanywhere.com/)
+[Check the Dashboard deployed on pythonanywhere](https://msalah987.pythonanywhere.com/)
